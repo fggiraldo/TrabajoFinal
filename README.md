@@ -1,4 +1,4 @@
-# Práctica Calificada: Metodología para Data Science
+# Trabajo Final: Metodología para Data Science
 
 ## Descripción del Proyecto
 
