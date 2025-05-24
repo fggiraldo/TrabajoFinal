@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en el análisis de un dataset de bonos del tesoro, donde el objetivo es predecir el riesgo que exite en la inversion. El objetivo principal es practicar el flujo completo de un proyecto de data science, desde la limpieza y manipulación de datos hasta la preparación para modelado, tal como vimos en clase, utilizando Git como herramienta principal de control de versiones.
+Este proyecto consiste en el análisis de un dataset de bonos del tesoro, donde el objetivo es predecir el riesgo que existe en la inversion. El objetivo principal es practicar el flujo completo de un proyecto de data science, desde la limpieza y manipulación de datos hasta la preparación para modelado, tal como vimos en clase, utilizando Git como herramienta principal de control de versiones.
 
 ## Objetivos del Proyecto
 1. Analizar el comportamiento histórico de la inversion en el bono del tesoro opciones de inversión
