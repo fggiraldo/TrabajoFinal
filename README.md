@@ -36,9 +36,6 @@ El dataset utilizado es el [Bcrp](https://estadisticas.bcrp.gob.pe/estadisticas/
 ## Tareas a Realizar
 
 
-### 7. Análisis exploratorio
-- Haciendo uso del dataset generado hasta este momento, se deberán analizar las variables indicando si es que hay algunos patrones interesantes en los datos y/o variables que está correlacionadas con la variable target `attrition`. Esto deberá estar en notebook.
-- Las conclusiones finales del análisis exploratorio deberán guardarse en un archivo `.md` adicional.
 
 ## Recursos Adicionales
 
