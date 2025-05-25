@@ -24,3 +24,4 @@ seaborn>=0.13.0
 setuptools>=68.2.2
 sphinx>=7.2.6
 xgboost>=2.0.0
+yfinance
