@@ -1,8 +1,6 @@
-# Trabajo Final: Metodología para Data Science
+# Práctica Calificada: Metodología para Data Science
 
-## Descripción del Proyecto
-
-Este proyecto consiste en el análisis de un dataset de Recursos Humanos, donde el objetivo es predecir la variable `attrition`. El objetivo principal es practicar el flujo completo de un proyecto de data science, desde la limpieza y manipulación de datos hasta la preparación para modelado, tal como vimos en clase, utilizando Git como herramienta principal de control de versiones.
+La inversión en `criptomonedas` es una estrategia atractiva debido a su alta rentabilidad potencial, pero conlleva riesgos significativos como volatilidad extrema, regulación incierta y riesgos de seguridad. Este trabajo busca evaluar cómo distribuir un capital de S/1,000,000 en un portafolio diversificado de criptomonedas para maximizar el rendimiento y minimizar el riesgo.
 
 ## Dataset
 
@@ -10,7 +8,7 @@ El dataset utilizado es el [HR Analytics Case Study](https://www.kaggle.com/data
 
 ## Estructura del Proyecto
 ```
-├── data/                  # Datos originales y procesados
+├── data/                 # Datos originales y procesados
 │   ├── raw/              # Datos originales
 │   └── processed/        # Datos procesados
 ├── notebooks/            # Jupyter notebooks con el análisis
