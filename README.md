@@ -7,7 +7,7 @@ La inversión en `criptomonedas` es una estrategia atractiva debido a su alta re
 
 ## Dataset
 ```
-El dataset utilizado es el [Criptomonedas], la data de yfinance sobre criptomonedas incluye varios campos clave que permiten analizar el comportamiento del mercado.
+El dataset utilizado es el [Criptomonedas - yfinance], la data de yfinance sobre criptomonedas incluye varios campos clave que permiten analizar el comportamiento del mercado.
 
 1️⃣ Precio de cierre (Close) – Último precio registrado en el período seleccionado.
 2️⃣ Precio de apertura (Open) – Precio al inicio del período.
@@ -39,34 +39,13 @@ El dataset utilizado es el [Criptomonedas], la data de yfinance sobre criptomone
 
 ### 1. Descripción del Problema
 
-
 ### 2. Metodología Científica
-
 
 ### 3. Código Fuente
 
 ### 4. Experimentación
 
-
 ### 5. Validación y Pruebas
-
-
-
-
-
-
-## Criterios de Evaluación
-
-1. **Uso de Git y Flujo de Trabajo (30%)**
-  
-
-2. **Limpieza y Manipulación de Datos (30%)**
-
-
-3. **Tests y Calidad de Código (20%)**
-
-
-4. **Documentación (20%)**
 
 
 ## Recursos Adicionales
