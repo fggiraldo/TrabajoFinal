@@ -1,6 +1,6 @@
 import yfinance as yf
 import pandas as pd
-
+from pipeline.config import TICKERS
 
 def obtener_crypto_yfinance(
     ticker: list[str], fecha_inicio: str, fecha_fin: str
