@@ -1,4 +1,4 @@
-# Práctica Calificada: Metodología para Data Science
+# Trabajo final: Metodología para Data Science
 
 La inversión en `criptomonedas` es una estrategia atractiva debido a su alta rentabilidad potencial, pero conlleva riesgos significativos como volatilidad extrema, regulación incierta y riesgos de seguridad. Este trabajo busca evaluar cómo distribuir un capital de S/1,000,000 en un portafolio diversificado de criptomonedas para maximizar el rendimiento y minimizar el riesgo.
 
